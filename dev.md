@@ -1,3 +1,4 @@
+ paix
   |
  /|\
 peace
